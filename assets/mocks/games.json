@@ -1,0 +1,369 @@
+[
+  {
+    "id": 1,
+    "title": "Code Names",
+    "thumbnail": "https://i.imgur.com/J6Xod2c.png",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "time": 15
+  },
+  {
+    "id": 2,
+    "title": "Abyss",
+    "thumbnail": "https://i.imgur.com/8DEMHyf.png",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "time": 45
+  },
+  {
+    "id": 3,
+    "title": "Mysterium",
+    "thumbnail": "https://i.imgur.com/Tpz8djU.png",
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "time": 40
+  },
+  {
+    "id": 4,
+    "title": "7 Wonders",
+    "thumbnail": "https://i.imgur.com/j2aZR4M.png",
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "time": 30
+  },
+  {
+    "id": 5,
+    "title": "7 Wonders Duel",
+    "thumbnail": "https://i.imgur.com/5qCxx04.png",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "time": 30
+  },
+  {
+    "id": 6,
+    "title": "Loup garou pour 1 nuit",
+    "thumbnail": "https://i.imgur.com/k8XR1HA.png",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "time": 10
+  },
+  {
+    "id": 8,
+    "title": "Arena for the gods",
+    "thumbnail": "https://i.imgur.com/fBixAHO.png",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "time": 30
+  },
+  {
+    "id": 9,
+    "title": "Chronicles of Crime",
+    "thumbnail": "https://i.imgur.com/gUKjKMJ.png",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "time": 90
+  },
+  {
+    "id": 10,
+    "title": "Blanc Manger Coco",
+    "thumbnail": "https://cdn.cultura.com/cdn-cgi/image/width=830/media/pim/61_245768_1_10_FR.PNG",
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "time": 30
+  },
+  {
+    "id": 12,
+    "title": "Le jeu de l'année",
+    "thumbnail": "https://i.imgur.com/64C7H6A.png",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "time": 60
+  },
+  {
+    "id": 13,
+    "title": "Monopoly",
+    "thumbnail": "https://i.imgur.com/30fqBkl.png",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "time": 60
+  },
+  {
+    "id": 14,
+    "title": "Lâche pas la savonette",
+    "thumbnail": "https://i.imgur.com/dq8XpsU.png",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "time": 15
+  },
+  {
+    "id": 15,
+    "title": "Kingdom Rush ",
+    "thumbnail": "https://i.imgur.com/8HjsMle.png",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "time": 75
+  },
+  {
+    "id": 16,
+    "title": "Complots 2",
+    "thumbnail": "https://i.imgur.com/HDHMVCS.png",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "time": 30
+  },
+  {
+    "id": 17,
+    "title": "Welcome to your perfect home",
+    "thumbnail": "https://i.imgur.com/tA3z4tC.png",
+    "minPlayers": 1,
+    "time": 20
+  },
+  {
+    "id": 18,
+    "title": "Nigthmarium",
+    "thumbnail": "https://i.imgur.com/rkrNipV.png",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "time": 30
+  },
+  {
+    "id": 19,
+    "title": "Scythe",
+    "thumbnail": "https://i.imgur.com/LnQV2kR.png",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "time": 120
+  },
+  {
+    "id": 20,
+    "title": "Pandemic",
+    "thumbnail": "https://i.imgur.com/29W6NZ8.png",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "time": 45
+  },
+  {
+    "id": 21,
+    "title": "Contagion",
+    "thumbnail": "https://i.imgur.com/YAH1EQs.png",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "time": 60
+  },
+  {
+    "id": 22,
+    "title": "Andor",
+    "thumbnail": "https://i.imgur.com/FR4pUCT.png",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "time": 90
+  },
+  {
+    "id": 23,
+    "title": "Eclipse",
+    "thumbnail": "https://i.imgur.com/Gnq9Klk.png",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "time": 180
+  },
+  {
+    "id": 24,
+    "title": "Mare nostrum",
+    "thumbnail": "https://i.imgur.com/9pMC92P.png",
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "time": 120
+  },
+  {
+    "id": 25,
+    "title": "Dice forge",
+    "thumbnail": "https://i.imgur.com/LeV17F6.png",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "time": 40
+  },
+  {
+    "id": 26,
+    "title": "Mystères",
+    "thumbnail": "https://i.imgur.com/Gfw8SuY.png",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "time": 30
+  },
+  {
+    "id": 27,
+    "title": "Imaginarium",
+    "thumbnail": "https://i.imgur.com/pixAd8y.png",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "time": 120
+  },
+  {
+    "id": 29,
+    "title": "Takenoko",
+    "thumbnail": "https://i.imgur.com/R4CINLX.png",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "time": 60
+  },
+  {
+    "id": 30,
+    "title": "Smallword",
+    "thumbnail": "https://i.imgur.com/njqaBUF.png",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "time": 120
+  },
+  {
+    "id": 31,
+    "title": "Jamaica",
+    "thumbnail": "https://i.imgur.com/pqVjoo2.png",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "time": 120
+  },
+  {
+    "id": 32,
+    "title": "Terraforming Mars",
+    "thumbnail": "https://i.imgur.com/lciuUpI.png",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "time": 120
+  },
+  {
+    "id": 33,
+    "title": "Fief",
+    "thumbnail": "https://i.imgur.com/DyfSnCx.png",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "time": 180
+  },
+  {
+    "id": 34,
+    "title": "Mascarade",
+    "thumbnail": "https://i.imgur.com/B52TyrF.png",
+    "minPlayers": 2,
+    "maxPlayers": 13,
+    "time": 30
+  },
+  {
+    "id": 35,
+    "title": "4 gods",
+    "thumbnail": "https://i.imgur.com/YSErIld.png',  ",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "time": 30
+  },
+  {
+    "id": 38,
+    "title": "Citadelle",
+    "thumbnail": "https://i.imgur.com/6283gzl.png",
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "time": 60
+  },
+  {
+    "id": 39,
+    "title": "Dixit",
+    "thumbnail": "https://i.imgur.com/AuXtkgj.png",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "time": 60
+  },
+  {
+    "id": 43,
+    "title": "Catan",
+    "thumbnail": "https://i.imgur.com/Evcca5u.png",
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "time": 120
+  },
+  {
+    "id": 44,
+    "title": "Exploding Kitten",
+    "thumbnail": "https://i.imgur.com/pBqZLG1.png",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "time": 30
+  },
+  {
+    "id": 45,
+    "title": "Cro Magnon",
+    "thumbnail": "https://i.imgur.com/X3iDhGg.png",
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "time": 30
+  },
+  {
+    "id": 46,
+    "title": "6 qui prend",
+    "thumbnail": "https://i.imgur.com/428cvGl.png",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "time": 30
+  },
+  {
+    "id": 47,
+    "title": "Donjon de Naheulbeuk",
+    "thumbnail": "https://i.imgur.com/7zKdBHz.png",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "time": 60
+  },
+  {
+    "id": 48,
+    "title": "Mint works",
+    "thumbnail": "https://i.imgur.com/LML6Vvz.png",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "time": 15
+  },
+  {
+    "id": 49,
+    "title": "Anachrony",
+    "thumbnail": "https://i.imgur.com/UpVFVXX.png",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "time": 90
+  },
+  {
+    "id": 50,
+    "title": "Les aventures du rail",
+    "thumbnail": "https://i.imgur.com/iFrwmte.png",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "time": 60
+  },
+  {
+    "id": 52,
+    "title": "Service compris",
+    "thumbnail": "https://i.imgur.com/XXQ5XPM.png",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "time": 45
+  },
+  {
+    "id": 53,
+    "title": "Bang",
+    "thumbnail": "https://i.imgur.com/mWaMHhn.png",
+    "minPlayers": 4,
+    "maxPlayers": 7,
+    "time": 30
+  },
+  {
+    "id": 54,
+    "title": "Queendomino",
+    "thumbnail": "https://i.imgur.com/QHBLMOo.png",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "time": 25
+  },
+  {
+    "id": 55,
+    "title": "Petit meurtres et faits divers",
+    "thumbnail": "https://i.imgur.com/MQOg08K.png",
+    "minPlayers": 4,
+    "maxPlayers": 7,
+    "time": 45
+  }
+]

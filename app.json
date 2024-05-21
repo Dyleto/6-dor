@@ -2,7 +2,7 @@
   "expo": {
     "name": "6 d'Or",
     "slug": "6-dor",
-    "scheme": "6-dor",
+    "scheme": "sixdor",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -33,14 +33,15 @@
         "origin": false
       },
       "eas": {
-        "projectId": "140981b0-8bcc-4daa-a900-564c36863237"
+        "projectId": "77c20e5b-4e68-47a1-83ee-5ed2207e8244"
       }
     },
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/140981b0-8bcc-4daa-a900-564c36863237"
-    }
+      "url": "https://u.expo.dev/77c20e5b-4e68-47a1-83ee-5ed2207e8244"
+    },
+    "owner": "dyleto"
   }
 }

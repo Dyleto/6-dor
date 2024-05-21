@@ -1,8 +1,7 @@
-import { View, Text, FlatList, Image, RefreshControl, Alert } from 'react-native'
+import { View, FlatList, RefreshControl } from 'react-native'
 import React, { useEffect, useState } from 'react'
 import { SafeAreaView } from 'react-native-safe-area-context'
 
-import { images } from '../../constants'
 import SearchInput from '../../components/SearchInput'
 import EmptyState from '../../components/EmptyState'
 import getAllGames from '../../lib/api'
@@ -22,10 +21,13 @@ const Home = (): JSX.Element => {
   }
 
   useEffect(() => {
+    if (games) console.log(games)
     setFilteredGames(
-      games.filter((game) =>
-        game.title.toLocaleLowerCase().includes(searchCriteria.toLocaleLowerCase() ?? '')
-      )
+      games
+        .filter((game) =>
+          game.title.toLocaleLowerCase().includes(searchCriteria.toLocaleLowerCase() ?? '')
+        )
+        .sort((a, b) => a.title.localeCompare(b.title))
     )
   }, [searchCriteria, games])
 

@@ -9,4 +9,7 @@ interface Game {
   id: number
   title: string
   thumbnail: string
+  minPlayers: number
+  maxPlayers?: number
+  time: number
 }
