@@ -4,10 +4,22 @@
   },
   "build": {
     "production": {
-      "releaseChannel": "production"
+      "releaseChannel": "production",
+      "android": {
+        "image": "latest"
+      },
+      "ios": {
+        "image": "latest"
+      }
     },
     "dev": {
-      "distribution": "internal"
+      "distribution": "internal",
+      "android": {
+        "image": "latest"
+      },
+      "ios": {
+        "image": "latest"
+      }
     }
   },
   "submit": {
